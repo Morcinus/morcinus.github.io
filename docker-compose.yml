@@ -1,0 +1,17 @@
+version: '3'
+
+services:
+  hugo:
+    container_name: hugo
+    image: peaceiris/hugo:latest # Minimum image
+    # image: peaceiris/hugo:v0.x.x-mod      # Hugo Modules
+    # image: peaceiris/hugo:v0.x.x-full     # Hugo Modules and Node.js
+    # image: ghcr.io/peaceiris/hugo:v0.x.x  # Docker images on GitHub Packages
+    ports:
+      - 1313:1313
+    volumes:
+      - '.:/src'
+    command:
+      - server
+      - --bind=0.0.0.0
+      - --buildDrafts
