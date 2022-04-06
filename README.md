@@ -1,3 +1,2 @@
-Jak spustit:
-v hlavním adresáři:
+Jak spustit stránku lokálně (v hlavním adresáři):
 docker-compose up
