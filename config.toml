@@ -5,7 +5,7 @@ theme = "portio"
 title = "Portio"
 # Main Menu
 [[menu.main]]
-name = "Home"
+name = "Domů"
 url = "#home"
 weight = 1
 # [[menu.main]]
