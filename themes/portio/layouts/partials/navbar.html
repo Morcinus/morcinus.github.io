@@ -9,8 +9,8 @@
       <span class="navbar-toggler-icon"></span>
     </button>
 
-    <div class="collapse navbar-collapse justify-content-between" id="navbarCollapse">
-      <ul class="nav navbar-nav main-navigation my-0 mx-auto">
+    <div class="collapse navbar-collapse justify-content-end" id="navbarCollapse">
+      <ul class="nav navbar-nav main-navigation my-0" style="margin-right: 20px">
         {{ $menu := .Site.Menus.main }}
         {{ range $index, $element := $menu }}
         <li class="nav-item">
@@ -20,7 +20,7 @@
         {{ end }}
       </ul>
       <div class="navbar-nav">
-        <a href="{{ "contact" | absURL }}" class="btn btn-primary btn-zoom hire_button">Hire Me Now</a>
+        <a href="{{ "blog" | absURL }}" class="btn btn-primary btn-zoom hire_button">Blog</a>
       </div>
     </div>
   </div>
