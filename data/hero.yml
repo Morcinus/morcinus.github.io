@@ -1,13 +1,15 @@
 ---
 enable: true
-topTitle: Hello, I am Natasha
+topTitle: Zdravím 👋
 content: >
-  # I am here for your personal business
+  ### Jsem Honza, 
+  
+  programátor, blázen do budování projektů, cvičení, knowledge managementu, produktivity a poslední dobou také do angličtiny a touch typingu.
 
-  Enjoy team diversity and increase their networks among others people
-  in various fields by
-buttonName: Contact me
-buttonURL: contact
+
+  Občas sem přidávám zajímavé články na témata, která se mi zrovna honí hlavou. Určitě je můžete omrknout :)
+buttonName: Blog
+buttonURL: blog
 image: images/hero/2960351.jpg
 videoThumb: images/hero/popup-thumb.png
 videoURL: https://www.youtube.com/watch?v=dQw4w9WgXcQ
