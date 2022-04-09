@@ -47,7 +47,7 @@ Nejde o to, že by člověk odpovídal dlouho, ale o to, že tím člověk ztrat
 
 > Tip: Je dobrý nápad si nastavit automatický "nerušit" třeba od 8:00 do 19:00. Pokud to budete vždy dělat ručně, po 2 dnech se na to vykašlete
 
-### Time Tracking
+### Time Tracking ⌛
 Důležitost: ⭐⭐⭐
 Obtížnost: 💪💪💪 - každý task je třeba vykázat
 
@@ -71,7 +71,7 @@ Např. když člověk pere prádlo, je obviously časově efektivnější vyprat
 
 To samé se dá aplikovat na jiné úkoly. Člověk se tím zbaví *setup timu* a může tak operovat ve *flow* a nemusí furt přeskakovat na jiné úkoly.
 
-### Optimalizace opakujících se úkolů
+### Optimalizace opakujících se úkolů 🔄 
 Důležitost: ⭐⭐⭐
 Obtížnost: 💪💪💪
 
@@ -84,7 +84,7 @@ Příklady:
 - Nebo třeba zjistíte, že když zapnete mobil o hodinu později, tak máte ráno klid na práci.
 
 
-### Nastavení bariér
+### Nastavení bariér ✋
 Důležitost: ⭐⭐⭐⭐
 Obtížnost: 💪💪
 
@@ -178,7 +178,7 @@ Díky tomu to člověk odbyje hned na začátku, když má ještě sílu to ře�
 
 Prakticky: Nakreslete si do svého To-Do listu žábu, ať na to nezapomenete. Když si vždy budete rozvrhovat tasky, hoďte ten nejotravnější dopředu.
 
-### Action Faking
+### Action Faking 🙅‍♂️
 Problém je, že lidi v 90% času pracují na nepodstatných úkolech, protože nechtějí řešit ty core problémy/úkoly.
 
 Typicky pokud člověk chce dosáhnout nějakého cíle, tak stačí dělat 1-2 věci a dělat je dobře.
@@ -191,10 +191,10 @@ Např. když člověk dělá nějaký software nebo jakýkoliv jiný produkt.. M
 
 Např. když chce člověk vypadat dobře, typicky stačí, aby cvičil a jedl tolik kalorií, kolik má. To jsou 2 věci. Tečka. Není potřeba prokrastinovat tím že člověk overthinkuje a dělá milión dalších věcí.
 
-### 2 minute rule
+### 2 minute rule ⏰
 Jednoduše, to co zabere míň než 2 minuty, byste ani neměli dávat na todo list a rovnou to udělejte. Zabráníte tím tak přeplněným todo listům.
 
-### Různé úkoly v různé časy
+### Různé úkoly v různé časy 🎨 
 Většina úkolů spadá do následujících kategorií:
 1) Kreativita - vymýšlení něčeho nového (návrhy designů, algoritmů, plánů)
 2) Komunikace - meetingy, chaty, emaily, hovory
@@ -208,7 +208,7 @@ Proto je důležité rozvrhovat den tak, aby člověk dělal např. ty kreativn�
 
 Naopak nekreativní činnosti lze dělat téměř vždy.
 
-### Hell yes or no
+### Hell yes or no 🤟
 Častým problémem je, že si lidi zbytečně sami zaplňují kalendáře a todo listy věcma které vlastně ani nechtějí dělat.
 
 Kdykoliv, kdy vás někdo pozve na nějakou akci, k nějakýmu projektu apod. Vždy se zeptejte, chci to dělat?
@@ -217,7 +217,7 @@ Pokud není odpovědí nadšené: Hell yes!, tak by člověk měl říct ne.
 
 Díky tomu člověk oseká hromadu průměrných akcí a dělá jen ty věci, které za to opravdu stojí.
 
-### Balanc odpočinku a produktivity
+### Balanc odpočinku a produktivity 🏄‍♂️
 Jedna věc, která se taky týká produktivity je odpočinek. Otázkou je, jak moc by měl člověk balancovat volný čas (odpočinek) a produktivní čas.
 
 Na to existuje dobrý rule of thumb: "Don't do more today than you can completely recover from by tomorrow".
