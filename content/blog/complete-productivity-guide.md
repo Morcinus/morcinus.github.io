@@ -1,5 +1,5 @@
 ---
-title: "Kompletní Productivity Guide"
+title: "Kompletní Productivity Guide 🚧"
 date: 2022-04-09T18:18:00Z
 featureImage: images/allpost/allPost-3.jpg
 postImage: images/single-blog/feature-image.jpg
@@ -187,12 +187,12 @@ Lidi furt debatují a vytvářejí nepodstatné úkoly, místo toho, aby si vyrh
 
 Prakticky: Je dobrý určovat priority úkolů a řídit se jima = nedělat nepodstatné úkoly. (viz výše)
 
-Např. když člověk dělá nějaký software nebo jakýkoliv jiný produkt.. Může strávit fakt 80% času na blbostech jako design loga, vymýšlení názvu atd., místo toho, aby se soustředil na tom aby ten produkt dělal co má a dělal to dobře.
+Např. když člověk dělá nějaký software nebo jakýkoliv jiný produkt.. Může strávit fakt 80% času na blbostech jako design loga, vymýšlení názvu atd., místo toho, aby se soustředil na to, aby ten produkt dělal co má a dělal to dobře.
 
 Např. když chce člověk vypadat dobře, typicky stačí, aby cvičil a jedl tolik kalorií, kolik má. To jsou 2 věci. Tečka. Není potřeba prokrastinovat tím že člověk overthinkuje a dělá milión dalších věcí.
 
 ### 2 minute rule
-Jednoduše, to co zabere míň než 2 minuty byste ani neměli dávat na todo list a rovnou to udělejte. Zabráníte tím tak přeplněným todo listům.
+Jednoduše, to co zabere míň než 2 minuty, byste ani neměli dávat na todo list a rovnou to udělejte. Zabráníte tím tak přeplněným todo listům.
 
 ### Různé úkoly v různé časy
 Většina úkolů spadá do následujících kategorií:
@@ -217,7 +217,7 @@ Pokud není odpovědí nadšené: Hell yes!, tak by člověk měl říct ne.
 
 Díky tomu člověk oseká hromadu průměrných akcí a dělá jen ty věci, které za to opravdu stojí.
 
-### Odpočinek
+### Balanc odpočinku a produktivity
 Jedna věc, která se taky týká produktivity je odpočinek. Otázkou je, jak moc by měl člověk balancovat volný čas (odpočinek) a produktivní čas.
 
 Na to existuje dobrý rule of thumb: "Don't do more today than you can completely recover from by tomorrow".
