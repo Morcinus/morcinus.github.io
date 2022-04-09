@@ -18,9 +18,10 @@
 				</div>
 			</div>
 		</div>
-
+	</div>
+	<div class="container">
 		<div class="row">
-			{{ range first 3 (where $.Site.RegularPages "Type" "!=" "portfolio") }}
+			{{ range first 3 (where $.Site.RegularPages "Type" "==" "blog") }}
 			<div class="col-lg-4">
 				<div class="blog-preview__item">
 					<div class="blog-preview__item-thumb">
@@ -35,7 +36,23 @@
 				</div>
 			</div>
 			{{ end }}
-
+		</div>
+		<div class="row">
+			{{ range first 3 (after 3 (where $.Site.RegularPages "Type" "==" "blog"))}}
+			<div class="col-lg-4">
+				<div class="blog-preview__item">
+					<div class="blog-preview__item-thumb">
+						<img src="{{ .Params.featureImage | absURL }}" alt="post-image">
+					</div>
+					<div class="blog-preview__item-content bg-white">
+						<span class="small">{{ .PublishDate.Format "January 2, 2006" }}</span>
+						<h5 class="mb-0">
+							<a class="text-dark" href="{{ .Permalink }}">{{ .Title }}</a>
+						</h5>
+					</div>
+				</div>
+			</div>
+			{{ end }}
 		</div>
 		<div class="row">
 			<div class="col-lg-12">
