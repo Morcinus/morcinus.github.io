@@ -8,6 +8,10 @@ title = "Portio"
 name = "Domů"
 url = "#home"
 weight = 1
+[[menu.main]]
+name = "Návyky"
+url = "/habits/habits"
+weight = 2
 # [[menu.main]]
 # name = "About"
 # url = "#about"
