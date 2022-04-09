@@ -2,7 +2,7 @@ baseURL = "https://morcinus.github.io/"
 languageCode = "en-us"
 paginate = 6
 theme = "portio"
-title = "Portio"
+title = "Honza Jeníček"
 # Main Menu
 [[menu.main]]
 name = "Domů"
