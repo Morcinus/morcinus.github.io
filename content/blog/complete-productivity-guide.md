@@ -45,7 +45,7 @@ Jedna notifikace člověka rozhodí na 15m i když by třeba na zprávu odpověd
 
 Nejde o to, že by člověk odpovídal dlouho, ale o to, že tím člověk ztratí tu koncentraci, kterou budoval třeba poslední hodinu.
 
-> Tip: Je dobrý nápad si nastavit automatický "nerušit" třeba od 8:00 do 19:00. Pokud to budete vždy dělat ručně, po 2 dnech se na to vykašlete
+> Tip: Je dobrý nápad si nastavit automatický "nerušit" třeba od 8:00 do 19:00. Pokud to budete vždy nastavovat ručně, po 2 dnech se na to vykašlete.
 
 ### Time Tracking ⌛
 Důležitost: ⭐⭐⭐
