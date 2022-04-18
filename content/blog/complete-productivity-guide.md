@@ -59,7 +59,7 @@ Výhodou toho je, že:
 
 Je to podobné jako u sledování kalorií. Někdo to dělá klidně 10 let v kuse, někoho to rozčiluje. Já doporučuju to zkusit aspoň 2-4 týdny v kuse, abyste získali představu, jak na tom s produktivitou *reálně* jste.
 
-Prakticky: Nainstalujte si apku třeba Toggl Track a sledujte, kolik času trávíte na úkolech.
+Prakticky: Nainstalujte si apku, třeba Toggl Track a sledujte, kolik času trávíte na úkolech.
 
 ### Batching 📦
 Důležitost: ⭐⭐⭐
@@ -78,11 +78,10 @@ Obtížnost: 💪💪💪
 Tohle není metoda, kterou by člověk dělal každý den, ale je fajn přibližně jednou za půl roku (závisí na kontextu) si sednout a sepsat si seznam činností, které nejčastěji děláte. Ke každé pak sepište nápady jak to můžete zoptimalizovat nebo ještě lépe zautomatizovat.
 
 Příklady:
-- Nedávno jsem zjistil, že i když celý život píšu na klávesnici, nikdy jsem se nenaučil psát všema 10. I když se to nezdá, psaní rychle všema 10 může neskutečně zrychlit práci.
+- Nedávno jsem zjistil, že i když celý život píšu na klávesnici, nikdy jsem se nenaučil psát všema 10. I když se to nezdá, psaní rychle všema 10 může neskutečně zrychlit a zpříjemnit práci.
 - Vytvoření maker a vlastních shortcutů. Na Widlích doporučuju AutoHotKey.
 - Nebo třeba zjistíte, že je pro vás efektivnější snídat až v práci.
 - Nebo třeba zjistíte, že když zapnete mobil o hodinu později, tak máte ráno klid na práci.
-
 
 ### Nastavení bariér ✋
 Důležitost: ⭐⭐⭐⭐
