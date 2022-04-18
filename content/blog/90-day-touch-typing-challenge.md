@@ -9,10 +9,15 @@ toc: false
 draft: true
 ---
 
-### Pokrok s procvičováním keybr.com 15 minut denně
+### Plán procvičování
+- Každý den projetí celého keybr.com od A-Z
+- Zbytek času monkeytype
+- Celkem maximálně 15m
 
-| Datum      | Average wpm | Top wpm |
-| ---------- | ----------: | ------: |
-| 01.04.2022 |          32 |      40 |
-| 14.04.2022 |        51.5 |    59.6 |
-|            |             |         |
+### Pokrok
+| Datum      | Average WPM | WPM Highscore |
+| ---------- | ----------: | ------------: |
+| 01.04.2022 |          32 |            40 |
+| 14.04.2022 |        51.5 |          59.6 |
+| 18.04.2022 |          63 |          67.4 |
+|            |             |               |
