@@ -15,9 +15,15 @@ draft: true
 - Celkem maximálně 15m
 
 ### Pokrok
+Angličtina
 | Datum      | Average WPM | WPM Highscore |
 | ---------- | ----------: | ------------: |
 | 01.04.2022 |          32 |            40 |
 | 14.04.2022 |        51.5 |          59.6 |
 | 18.04.2022 |          63 |          67.4 |
 |            |             |               |
+
+Čeština
+| Datum      | Average WPM | WPM Highscore |
+| ---------- | ----------: | ------------: |
+| 22.04.2022 |          40 |            45 |
