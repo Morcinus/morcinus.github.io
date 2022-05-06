@@ -1,4 +1,4 @@
-baseURL = "https://morcinus.github.io/"
+baseURL = "https://janjenicek.cz/"
 languageCode = "en-us"
 paginate = 6
 theme = "portio"
