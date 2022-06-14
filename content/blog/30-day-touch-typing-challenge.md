@@ -17,8 +17,8 @@ Tato realizace měla za následek dva podstatné dopady:
 
 ### 📅 Plán procvičování
 
-- Každý den projetí celého ![keybr.com](https://www.keybr.com/) od A-Z (to jsem ke konci challenge stíhal tak během ~10m). Celé cvičení jsem dělal v anonymním okně, aby se mi neukládaly výsledky a mohl jsem další den zase projet všechna písmenka A-Z.
-- Zbytek času psaní na ![monkeytype.com](https://monkeytype.com/) (nejčastějších 1000 slov v angličtině)
+- Každý den projetí celého [keybr.com](https://www.keybr.com/) od A-Z (to jsem ke konci challenge stíhal tak během ~10m). Celé cvičení jsem dělal v anonymním okně, aby se mi neukládaly výsledky a mohl jsem další den zase projet všechna písmenka A-Z.
+- Zbytek času psaní na [monkeytype.com](https://monkeytype.com/) (nejčastějších 1000 slov v angličtině)
 - Celkem maximálně 15m
 
 Krom toho jsem procvičoval psaní asi na 4-5 přednáškách, protože to bylo zábavnější, než dávat pozor.
