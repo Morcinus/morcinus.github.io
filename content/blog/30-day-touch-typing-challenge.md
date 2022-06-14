@@ -1,5 +1,5 @@
 ---
-title: "30 day Touch Typing Challenge"
+title: "30 Day Touch Typing Challenge"
 date: 2022-04-06T11:08:56Z
 featureImage: images/allpost/allPost-1.jpg
 postImage: images/single-blog/keyboard.jpg
