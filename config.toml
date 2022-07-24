@@ -12,6 +12,10 @@ weight = 1
 name = "Návyky"
 url = "/habits/habits"
 weight = 2
+[[menu.main]]
+name = "Playlisty"
+url = "/playlists"
+weight = 3
 # [[menu.main]]
 # name = "About"
 # url = "#about"
