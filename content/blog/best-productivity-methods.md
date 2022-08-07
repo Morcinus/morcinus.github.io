@@ -1,7 +1,7 @@
 ---
-title: "Best Productivity Methods"
+title: "Nejlepší metody produktivity"
 date: 2022-04-09T18:18:00Z
-featureImage: images/allpost/allPost-3.jpg
+featureImage: images/allpost/allPost-7.jpg
 postImage: images/single-blog/feature-image.jpg
 tags: productivity
 categories: zivot
