@@ -10,7 +10,7 @@ url = "#home"
 weight = 1
 [[menu.main]]
 name = "Návyky"
-url = "/habits/habits"
+url = "/habits"
 weight = 2
 [[menu.main]]
 name = "Playlisty"
