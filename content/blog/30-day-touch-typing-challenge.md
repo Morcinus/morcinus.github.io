@@ -6,6 +6,7 @@ postImage: images/single-blog/keyboard.jpg
 tags: productivity
 categories: zivot
 toc: true
+featured: true
 ---
 
 Na jedné přednášce Softwarového Inženýrství jsem tak přemýšlel o životě a došlo mi, že jsem se vlastně do teď nenaučil pořádně a rychle psát všemi deseti prsty na klávesnici.

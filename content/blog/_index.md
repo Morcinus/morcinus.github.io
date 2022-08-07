@@ -1,3 +1,3 @@
 ---
-title: Poslední články
+title: Všechny články
 ---

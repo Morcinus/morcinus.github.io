@@ -6,6 +6,7 @@ postImage: images/single-blog/feature-image.jpg
 tags: productivity
 categories: zivot
 toc: true
+featured: true
 ---
 
 ## Pointa tohoto článku
