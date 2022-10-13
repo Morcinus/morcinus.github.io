@@ -7,6 +7,10 @@ Vždy když jsem se snažil najet na nějaký nový návyk (cvičení, zdravá s
 
 Proto jsem udělal tuto stránku, kde se můžete v reálném čase mrknout, jak to zvládám já 😀 Tato stránka slouží především jako motivace pro mě a kamarády. Určitě doporučuju i vám sdílet svůj pokrok s ostatníma, je to pak mnohem větší zábava 😁
 
-### Beeminder workout habit
+### 💪 Working out
 
-![beeminder](https://www.beeminder.com/morcinus/working-out.png)
+![beeminder working-out](https://www.beeminder.com/morcinus/working-out.png)
+
+### 🐱‍👤 Side project
+
+![beeminder side-hustle](https://www.beeminder.com/morcinus/side-hustle.png)
