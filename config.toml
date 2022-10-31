@@ -9,17 +9,21 @@ name = "Domů"
 url = "#home"
 weight = 1
 [[menu.main]]
+name = "Portfolio"
+url = "/Portfolio"
+weight = 2
+[[menu.main]]
 name = "Návyky"
 url = "/habits"
-weight = 2
+weight = 3
 [[menu.main]]
 name = "Playlisty"
 url = "/playlists"
-weight = 3
+weight = 4
 [[menu.main]]
 name = "CSS Lab"
 url = "/csslab"
-weight = 4
+weight = 5
 # [[menu.main]]
 # name = "About"
 # url = "#about"
