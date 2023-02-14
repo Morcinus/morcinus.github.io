@@ -14,3 +14,7 @@ Proto jsem udělal tuto stránku, kde se můžete v reálném čase mrknout, jak
 ### 🐱‍👤 Side project
 
 ![beeminder side-hustle](https://www.beeminder.com/morcinus/side-hustle.png)
+
+### ⏰ Waking up before 6:30
+
+![beeminder wake-up](https://www.beeminder.com/morcinus/wake-up.png)
